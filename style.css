@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.welcome-container{
+    height: 200px;
+}
+.welcome-text{
+    font-size: 30px; 
+    font-weight: bold;
+    justify-content: center;
+}
+.sign-in{
+    color: black;
+    text-decoration: none;
+    margin-right: 100px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.order-for-delevery{
+    font-size: 18px;
+}
+.offer-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.content-img{
+    background-color: rgb(33,37,41);
+    height: 100px;
+    width: 100%;
+}
+.text-reset{
+    text-decoration: none;
+}
